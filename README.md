@@ -1,4 +1,4 @@
-### Hi! there 👋 I'm Diksha Tomar. I'm a front-end developer.
+
 <h1 align="center">Hi 👋, I'm Diksha Tomar</h1>
 <h3 align="center">Web Developer | Co - Founder @agriculturalfacts (46k+ followers ) | Marketing lead @Google DSC Kalindi | Dep. Proctor @ Hunar BVoc | NSS Kalindi Volunteer | Graphic Design Intern @SIDALCEAS</h3>
 
