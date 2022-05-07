@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Diksha</h1>
-<h3 align="center">I'm a front-end developer, designer and an avid reader who geeks out about music. I help designers, small agencies and businesses bring their ideas to life.</h3>
+<h1 align="left">Hi 👋, I'm Diksha</h1>
+<h3 align="center">I'm a front-end developer, designer and an avid reader who geeks out about music..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /> </p>
 
