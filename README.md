@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dikshatomarr" target="blank"><img src="https://img.shields.io/twitter/follow/dikshatomarr?logo=twitter&style=for-the-badge" alt="dikshatomarr" /></a> </p>
-- 🌱 I’m currently learning   **React**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **front-end projects**
 
@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **dikshatomar1511@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FklDtWna0v9bbPATLEHt3x-SffWcQ7on/view?usp=sharing](https://drive.google.com/file/d/1FklDtWna0v9bbPATLEHt3x-SffWcQ7on/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1-osGzptdhnbbCOXCQF383N832ThM9fTr/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dikshatomarr" height="30" width="40" /></a>
