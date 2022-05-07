@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Diksha</h1>
-<h3 align="center">I'm a front-end developer, designer and an avid reader who geeks out about music..</h3>
+<h3 align="left">I'm a front-end developer, designer and an avid reader who geeks out about music..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /> </p>
 
@@ -8,11 +8,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dikshatomarr/](https://github.com/Dikshatomarr/)
 
-- 💬 Ask me about **Graphic Designing,Front-end**
+- 💬 Ask me about **Graphic Designing,Front-end,Social Media Management,and song recommendations.**
 
 - 📫 How to reach me **dikshatomar1511@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1-osGzptdhnbbCOXCQF383N832ThM9fTr/view?usp=sharing
+
+- Add me on spotify :https://open.spotify.com/user/i3ldq9kdmfhmyijk6whvuqmqn?si=5011b371389e4b7a
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dikshatomarr" height="30" width="40" /></a>
@@ -26,6 +29,7 @@
 <a href="https://www.leetcode.com/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dikshatomar" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dikshatomar1511" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dikshatomar1511" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
