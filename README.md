@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/dikshatomarr" target="blank"><img src="https://img.shields.io/twitter/follow/dikshatomarr?logo=twitter&style=for-the-badge" alt="dikshatomarr" /></a> </p>
 
-- 🤝 I’m looking for help with **front-end projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Dikshatomarr/](https://github.com/Dikshatomarr/)
 
-- 💬 Ask me about **Graphic Designing,front-end**
+- 💬 Ask me about **Graphic Designing,Front-end**
 
 - 📫 How to reach me **dikshatomar1511@gmail.com**
 
