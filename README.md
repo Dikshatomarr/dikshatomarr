@@ -8,9 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dikshatomarr/](https://github.com/Dikshatomarr/)
 
-- 💬 Ask me about **Graphic Designing,Front-end,Social Media Management,and song recommendations.**
-
-- 📫 How to reach me **dikshatomar1511@gmail.com**
+- 📫 How to reach me **https://linkedin.com/in/dikshatomar**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1-osGzptdhnbbCOXCQF383N832ThM9fTr/view?usp=sharing
 
