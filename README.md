@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diksha Tomar</h1>
-<h3 align="center">Web Developer | Co - Founder @agriculturalfacts (46k+ followers ) | Marketing lead @Google DSC Kalindi | Dep. Proctor @ Hunar BVoc | NSS Kalindi Volunteer | Graphic Design Intern @SIDALCEAS</h3>
+<h3 align="center">Campus Ambassador @Codingninjas| Co-Founder @agriculturalfacts (46k+ followers ) | Marketing lead @Google DSC Kalindi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /> </p>
 
