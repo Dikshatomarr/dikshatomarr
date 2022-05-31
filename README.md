@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diksha Tomar</h1>
-<h3 align="center">Campus Ambassador @Codingninjas| Co-Founder @agriculturalfacts (46k+ followers ) | Marketing lead @Google DSC Kalindi</h3>
+<h3 align="center">Web Developer | Co - Founder @agriculturalfacts (46k+ followers ) | Marketing lead @Google DSC Kalindi | Dep. Proctor @ Hunar BVoc | NSS Kalindi Volunteer | Graphic Design Intern @SIDALCEAS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /> </p>
 
@@ -35,10 +35,11 @@
 <a href="https://www.behance.net/https://www.behance.net/dikshatomar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dikshatomar3" height="30" width="40" /></a>
 <a href="https://medium.com/@dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dikshatomar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dikshatomar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dikshatomar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dikshatomar1511" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dikshatomar1511" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dikshatomar" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dikshatomar1511" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dikshatomar1511" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/https://platform.topcoder.com/profile/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://platform.topcoder.com/profile/dikshatomar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
