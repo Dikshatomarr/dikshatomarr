@@ -1,23 +1,17 @@
-<h1 align="center">Hi 👋, I'm Diksha Tomar</h1>
+<h2 align="center">Hi 👋, I'm Diksha Tomar</h2>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikshatomarr" alt="dikshatomarr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dikshatomarr" target="blank"><img src="https://img.shields.io/twitter/follow/dikshatomarr?logo=twitter&style=for-the-badge" alt="dikshatomarr" /></a> </p>
-
+<p align=""> <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /> </p>
+<div id="header" align="center">
+  <img src="[[https://giphy.com/clips/AtemeKRsPRVESJ8zRq](https://giphy.com/clips/AtemeKRsPRVESJ8zRq)](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)" width="100"/>
+</div>
+<p>
+	
 - 🌱 I’m currently learning **MERN Stack & Java Programming.**
+	
+- 📫Drop a Mail : **dikshatomar1511@gmail.com**
 
-- 🤝 I’m looking for help with **front-end projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dikshatomarr/](https://github.com/Dikshatomarr/)
-
-- 💬 Ask me about **Front-end**
-
-- 📫 How to reach me **dikshatomar1511@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FklDtWna0v9bbPATLEHt3x-SffWcQ7on/view?usp=sharing](https://drive.google.com/file/d/1FklDtWna0v9bbPATLEHt3x-SffWcQ7on/view?usp=sharing)
+	
+</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
