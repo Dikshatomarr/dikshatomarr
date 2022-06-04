@@ -1,17 +1,30 @@
-<h2 align="center">Hi 👋, I'm Diksha Tomar</h2>
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /></p>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100">
-</div>
-<p>
-	
-- 🌱 I’m currently learning **MERN Stack & Java Programming.**
-	
-- 📫Drop a Mail : **dikshatomar1511@gmail.com**
+<h1 align="center">Hi 👋, I'm Diksha Tomar</h1>
 
+<h3 align="center">
+<a href="https://linkedin.com/in/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshatomar" height="30" width="40" /></a><a href="https://twitter.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshatomarr" height="30" width="40" /></a><a href="https://instagram.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikshatomarr" height="30" width="40" /></a></h3>
 	
+<h3 align="left">About me:</h3>
+
+<p>
+
+- 📖 Student at **Delhi University.**
+
+- 🌱 I’m currently learning **MERN Stack & Java Programming.**
+
+- 🤝🏻 Looking to Collaborate on **Front-end Projects.**
+
+- 📫 Drop a Mail at **dikshatomar1511@gmail.com**
+	
+- 📫 Connect with me on Linkedin:
+	
+
 </p>
+
+
 
 <!-- ### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
@@ -21,10 +34,7 @@
 <p align="left">
 <a href="https://codepen.io/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dikshatomarr" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dikshatomarr" height="30" width="40" /></a>
-<a href="https://twitter.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshatomarr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshatomar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17025905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17025905" height="30" width="40" /></a>
-<a href="https://instagram.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikshatomarr" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/dikshatomar" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/dikshatomar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dikshatomar3" height="30" width="40" /></a>
 <a href="https://medium.com/@dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dikshatomar" height="30" width="40" /></a>
