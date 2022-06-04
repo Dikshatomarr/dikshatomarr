@@ -19,9 +19,6 @@
 
 - 📫 Drop a Mail at **dikshatomar1511@gmail.com**
 	
-- 📫 Connect with me on Linkedin:
-	
-
 </p>
 
 
