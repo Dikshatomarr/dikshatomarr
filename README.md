@@ -29,6 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://kaggle.com/https://www.kaggle.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dikshatomarr" height="30" width="40" /></a>
 <a href="https://codepen.io/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dikshatomarr" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dikshatomarr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17025905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17025905" height="30" width="40" /></a>
