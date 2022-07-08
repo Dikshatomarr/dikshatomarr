@@ -20,7 +20,7 @@
 
 - 📖 Student at **Delhi University.**
 
-- 🌱 I’m currently learning **MERN Stack & Java Programming.**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🤝🏻 Looking to Collaborate on **Front-end Projects.**
 
