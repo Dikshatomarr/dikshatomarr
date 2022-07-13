@@ -17,8 +17,10 @@
 <h3 align="left">About me:</h3>
 
 <p>
+	
+-  Lead at **Google DSC Kalindi** & **Microsoft Learn student Ambassador**.
 
-- 📖 Student at **Delhi University.**
+- 📖 3rd- year Student at **Kalindi College, Delhi University.**
 
 - 🌱 I’m currently learning **MERN Stack**
 
