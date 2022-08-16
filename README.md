@@ -1,28 +1,28 @@
-<!-- <p align="center">  <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /></p> -->
-<!-- <h1 align="center">Hi 👋, I'm Diksha </h1> -->
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /></p>
+<h1 align="center">Hi 👋, I'm Diksha </h1>
 
-<img src="https://media.giphy.com/media/JeHJPy56bQoIUXcDy2/giphy.gif" height="400px" width= 1000px>
+<!--<img src="https://media.giphy.com/media/JeHJPy56bQoIUXcDy2/giphy.gif" height="400px" width= 1000px>-->
+
+ <div align="center">
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height="60" width="50"> 
+<img src="https://media.giphy.com/media/ZgqRN1hmfWPafarO5m/giphy.gif"  height="60" width="50"> 
+<img src="https://media.giphy.com/media/1W62t8wP8m1iM/giphy.gif"  height="60" width="69"> 
+<img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" height="60" width="69">
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif"  height="60" width="70"> 
+</div> 
 
 <h3 align="center"> 
 <a href="https://linkedin.com/in/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshatomar" height="30" width="40" /></a><a href="https://twitter.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshatomarr" height="30" width="40" /></a><a href="https://instagram.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikshatomarr" height="30" width="40" /></a></h3>
-
-<!-- <div align="center">
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="50"> 
-<img src="https://media.giphy.com/media/ZgqRN1hmfWPafarO5m/giphy.gif" width="50"> 
-<img src="" width="50"> 
-<img src=" width="50"> 
-<img src=" width="50"> 
-</div> -->
 
 <h3 align="left">About me:</h3>
 
 <p>
 	
--  Lead at **Google DSC Kalindi** & **an Alpha Microsoft Learn student Ambassador**.
+- 👉🏻 Lead at **Google DSC Kalindi** & **an Alpha Microsoft Learn Student Ambassador**.
 
 - 📖 3rd- year Student at **Kalindi College, Delhi University.**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Flutter & DSA**
 
 - 🤝🏻 Looking to Collaborate on **Front-end Projects.**
 
