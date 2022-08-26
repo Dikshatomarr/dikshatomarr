@@ -1,5 +1,5 @@
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /></p>
-<h1 align="center">Hi 👋, I'm Diksha </h1>
+<h1 align="center">Hi 👋, I'm Diksha Tomar</h1>
 
 <!--<img src="https://media.giphy.com/media/JeHJPy56bQoIUXcDy2/giphy.gif" height="400px" width= 1000px>-->
 
