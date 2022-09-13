@@ -20,9 +20,9 @@
 	
 - 👉🏻 Lead at **Google DSC Kalindi** & **an Alpha Microsoft Learn Student Ambassador**.
 
-- 📖 3rd- year Student at **Kalindi College, Delhi University.**
+- 📖 Final year Student at **Kalindi College, Delhi University.**
 
-- 🌱 I’m currently learning **Flutter & DSA**
+- 🌱 I’m currently learning **Web Development & DSA**
 
 - 🤝🏻 Looking to Collaborate on **Front-end Projects.**
 
