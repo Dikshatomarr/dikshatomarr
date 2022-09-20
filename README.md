@@ -32,7 +32,7 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Add me up on:</h3>
 <p align="center">
 <a href="https://kaggle.com/https://www.kaggle.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dikshatomarr" height="30" width="40" /></a>
 <a href="https://codepen.io/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dikshatomarr" height="30" width="40" /></a>
