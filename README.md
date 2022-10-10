@@ -18,7 +18,7 @@
 
 <p>
 	
-- 👉🏻 Lead at **Google DSC Kalindi** & **an Alpha Microsoft Learn Student Ambassador**.
+- 👉🏻 Lead at **Google DSC Kalindi** & **a Beta Microsoft Learn Student Ambassador**.
 
 - 📖 Final year Student at **Kalindi College, Delhi University.**
 
