@@ -1,68 +1,52 @@
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=dikshatomarr&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatomarr" /></p>
-<h1 align="center">Hi 👋, I'm Diksha Tomar</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diksha Tomar
+====================================================================================================================================
 
-<!--<img src="https://media.giphy.com/media/JeHJPy56bQoIUXcDy2/giphy.gif" height="400px" width= 1000px>-->
+I'm a web developer, a Lead at Google DSC Kalindi & a Beta Microsoft Learn Student Ambassador.
 
- <div align="center">
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height="60" width="50"> 
-<img src="https://media.giphy.com/media/ZgqRN1hmfWPafarO5m/giphy.gif"  height="60" width="50"> 
-<img src="https://media.giphy.com/media/1W62t8wP8m1iM/giphy.gif"  height="60" width="69"> 
-<img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" height="60" width="69">
-<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif"  height="60" width="70"> 
-</div> 
+* 🌍  I'm based in New Delhi / Haridwar
+* 🖥️  See my portfolio at [netlify](http://dikshatomar.netlify.app/)
+* ✉️  You can contact me at [dikshatomar1511@gmail.com](mailto:dikshatomar1511@gmail.com)
+* 🧠  I'm learning Advanced Java & DSA
 
-<h3 align="center"> 
-<a href="https://linkedin.com/in/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshatomar" height="30" width="40" /></a><a href="https://twitter.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshatomarr" height="30" width="40" /></a><a href="https://instagram.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikshatomarr" height="30" width="40" /></a></h3>
+<a href="https://www.twitter.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Dikshatomarr?logo=twitter&style=for-the-badge&color=64748b&labelColor=000000"
+/></a>
+<a href="https://www.github.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
 
-<h3 align="left">About me:</h3>
+### Skills
 
-<p>
-	
-- 👉🏻 Lead at **Google DSC Kalindi** & **a Beta Microsoft Learn Student Ambassador**.
 
-- 📖 Final year Student at **Kalindi College, Delhi University.**
-
-- 🌱 I’m currently learning **Web Development & DSA**
-
-- 🤝🏻 Looking to Collaborate on **Front-end Projects.**
-
-- 📫 Drop a Mail at **dikshatomar1511@gmail.com**
-	
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
+### Socials
 
-<h3 align="center">Add me up on:</h3>
-<p align="center">
-<a href="https://kaggle.com/https://www.kaggle.com/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dikshatomarr" height="30" width="40" /></a>
-<a href="https://codepen.io/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dikshatomarr" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/dikshatomarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dikshatomarr" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17025905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17025905" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/dikshatomar" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/dikshatomar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dikshatomar3" height="30" width="40" /></a>
-<a href="https://medium.com/@dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dikshatomar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dikshatomar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dikshatomar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dikshatomar1511" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dikshatomar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dikshatomar1511" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dikshatomar1511" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://platform.topcoder.com/profile/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://platform.topcoder.com/profile/dikshatomar" height="30" width="40" /></a>
+<p align="left"> <a href="https://www.behance.com/dikshatomar3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/dikshatomarr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/Diksha Tomar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Diksha#6137" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/dikshatomar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/Dikshatomarr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://Dikshatomar.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dikshtomarr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Dikshatomar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/DikshaTomarr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17025905/ditto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Dikshatomarr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+
+<a href="https://www.hackerrank.com/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dikshatomar1511" height="32" width="32" /></a>
+<a href="https://www.leetcode.com/dikshatomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dikshatomar" height="32" width="32" /></a>
+<a href="https://www.hackerearth.com/@dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dikshatomar1511" height="32" width="32" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dikshatomar1511" height="32" width="32" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+### Badges
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<b>My GitHub Stats</b>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshatomarr&show_icons=true&locale=en&layout=compact" alt="dikshatomarr" /></p>
+<a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-stats.vercel.app/api?username=Dikshatomarr&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&show_icons=true" alt="Dikshatomarr's GitHub stats" /></a>
+<a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshatomarr&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshatomarr&" alt="dikshatomarr" /></p>
-
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshatomarr&show_icons=true&locale=en" alt="dikshatomarr" /></p>
-
-
-
+<a href="http://www.github.com/Dikshatomarr"><img src="https://activity-graph.herokuapp.com/graph?username=Dikshatomarr&bg_color=000000&color=ffffff&line=64748b&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
