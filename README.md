@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diksha Tomar
+Hi! I am Diksha Tomar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-I'm a web developer, a Lead at Google DSC Kalindi & a Beta Microsoft Learn Student Ambassador.
+I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft Learn Student Ambassador.
 
 * 🌍  I'm based in New Delhi / Haridwar
 * 🖥️  See my portfolio at [netlify](http://dikshatomar.netlify.app/)
