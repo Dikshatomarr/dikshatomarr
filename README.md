@@ -1,5 +1,11 @@
 Hi! I am Diksha Tomar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
+ 
+<a href="https://www.twitter.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Dikshatomarr?logo=twitter&style=for-the-badge&color=64748b&labelColor=000000"
+/></a>
+<a href="https://www.github.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
 
 I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft Learn Student Ambassador.
 
@@ -8,11 +14,6 @@ I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft 
 * ✉️  You can contact me at [dikshatomar1511@gmail.com](mailto:dikshatomar1511@gmail.com)
 * 🧠  I'm learning Advanced Java & DSA
 
-<a href="https://www.twitter.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Dikshatomarr?logo=twitter&style=for-the-badge&color=64748b&labelColor=000000"
-/></a>
-<a href="https://www.github.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
 
 ### Skills
 
