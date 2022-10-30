@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I am Diksha Tomar</h1> 
+<h1 align="center"> Hi! I am Diksha Tomar 👋🏻</h1> 
 <h1 align="center"> =========================================
 <a href="https://www.twitter.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Dikshatomarr?logo=twitter&style=for-the-badge&color=64748b&labelColor=000000"
@@ -19,7 +19,8 @@ I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft 
 ### Skills
 
 
-<p align="left">
+<p align="left">![Uploading RocketRpsToTheMoonGIF.gif…]()
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
