@@ -1,11 +1,12 @@
-Hi! I am Diksha Tomar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-====================================================================================================================================
- 
+<h1 align="center"> Hi! I am Diksha Tomar</h1> 
+<h1 align="center"> =========================================
 <a href="https://www.twitter.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Dikshatomarr?logo=twitter&style=for-the-badge&color=64748b&labelColor=000000"
 /></a>
 <a href="https://www.github.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
+</h1>
+ 
 
 I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft Learn Student Ambassador.
 
@@ -43,11 +44,15 @@ I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft 
 <a href="https://auth.geeksforgeeks.org/user/dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dikshatomar1511" height="32" width="32" /></a>
 </p>
 
+<h1 align="center"> ========================================= </h1>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-stats.vercel.app/api?username=Dikshatomarr&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&show_icons=true" alt="Dikshatomarr's GitHub stats" /></a>
-<a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshatomarr&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div>
+<a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-stats.vercel.app/api?username=Dikshatomarr&show_icons=true&bg_color=00000000)" alt="Dikshatomarr's GitHub stats" /></a>
+<a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshatomarr&show_icons=true&bg_color=00000000)" /></a>
+</div>
 
-<a href="http://www.github.com/Dikshatomarr"><img src="https://activity-graph.herokuapp.com/graph?username=Dikshatomarr&bg_color=000000&color=ffffff&line=64748b&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Dikshatomarr"><img src="https://activity-graph.herokuapp.com/graph?username=Dikshatomarr&show_icons=true&bg_color=00000000)&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
