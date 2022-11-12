@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I am Diksha Tomar 👋🏻</h1> 
-<h1 align="center"> =========================================
+<!-- <h1 align="center"> ========================================= -->
 <a href="https://www.twitter.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Dikshatomarr?logo=twitter&style=for-the-badge&color=64748b&labelColor=000000"
 /></a>
@@ -45,7 +45,7 @@ I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft 
 <a href="https://auth.geeksforgeeks.org/user/dikshatomar1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dikshatomar1511" height="32" width="32" /></a>
 </p>
 
-<h1 align="center"> ========================================= </h1>
+<!-- <h1 align="center"> ========================================= </h1> -->
 
 ### Badges
 
