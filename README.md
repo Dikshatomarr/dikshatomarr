@@ -59,4 +59,4 @@ I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft 
 <a href="http://www.github.com/Dikshatomarr"><img src="https://activity-graph.herokuapp.com/graph?username=Dikshatomarr&show_icons=true&bg_color=00000000)&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
  
-  ![Snake animation](https://github.com/dikshatomarr/dikshatomarr/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dikshatomarr/dikshatomarr/blob/output/github-contribution-grid-snake.svg) 
