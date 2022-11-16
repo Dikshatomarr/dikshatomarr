@@ -1,19 +1,20 @@
 <h1 align="center"> Hi! I am Diksha Tomar 👋🏻</h1> 
-<!-- <h1 align="center"> ========================================= -->
+
+<h1 align="center"> 
 <a href="https://www.twitter.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Dikshatomarr?logo=twitter&style=for-the-badge&color=64748b&labelColor=000000"
 /></a>
 <a href="https://www.github.com/Dikshatomarr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
 </h1>
+
  
+I'm a **Web Developer & Designer**, a **Lead at Google DSC Kalindi** & a **Beta Microsoft Learn Student Ambassador**.
 
-I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft Learn Student Ambassador.
-
-* 🌍  I'm based in New Delhi / Haridwar
-* 🖥️  See my portfolio at [netlify](http://dikshatomar.netlify.app/)
-* ✉️  You can contact me at [dikshatomar1511@gmail.com](mailto:dikshatomar1511@gmail.com)
-* 🧠  I'm learning Advanced Java & DSA
+* 🌍  I'm based in **New Delhi / Haridwar**
+* 🖥️  See my portfolio at **[netlify](http://dikshatomar.netlify.app/)**
+* ✉️  You can contact me at **[dikshatomar1511@gmail.com](mailto:dikshatomar1511@gmail.com)**
+* 🧠  I'm learning **Advanced Java & DSA**
 
 
 ### Skills
@@ -55,8 +56,6 @@ I'm a Web Developer & Designer, a Lead at Google DSC Kalindi & a Beta Microsoft 
 <a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-stats.vercel.app/api?username=Dikshatomarr&show_icons=true&bg_color=00000000)" alt="Dikshatomarr's GitHub stats" /></a>
 <a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshatomarr&show_icons=true&bg_color=00000000)" /></a>
 </div>
-
-<a href="http://www.github.com/Dikshatomarr"><img src="https://activity-graph.herokuapp.com/graph?username=Dikshatomarr&show_icons=true&bg_color=00000000)&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
  
   ![Snake animation](https://github.com/dikshatomarr/dikshatomarr/blob/output/github-contribution-grid-snake.svg) 
