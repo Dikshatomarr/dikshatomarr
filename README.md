@@ -24,7 +24,7 @@ I'm a **Web Developer & Designer**, a **Lead at Google DSC Kalindi** & a **Beta 
 * 🖥️  See my portfolio at **[netlify](http://dikshatomar.netlify.app/)**
 * ✉️  You can contact me at **[dikshatomar1511@gmail.com](mailto:dikshatomar1511@gmail.com)**
 * 🧠  I'm learning **Advanced Java & DSA**
-* ✍  My Blogs :https://dikshatomar.hashnode.dev/
+* ✍  My Blogs : **https://dikshatomar.hashnode.dev/**
 
 ### Skills
 
