@@ -63,7 +63,7 @@ I'm a **Web Developer & Designer**, a **Lead at Google DSC Kalindi** & a **Beta 
 * 🌍  I'm based in **New Delhi / Haridwar**
 * 🖥️  See my portfolio at **[netlify](http://dikshatomar.netlify.app/)**
 * ✉️  You can contact me at **[dikshatomar1511@gmail.com](mailto:dikshatomar1511@gmail.com)**
-* 🧠  I'm learning **Advanced Java & DSA**
+* 🧠  I'm learning **ReactJS**
 * ✍  My Blogs : **https://dikshatomar.hashnode.dev/**
 
 ### Skills
