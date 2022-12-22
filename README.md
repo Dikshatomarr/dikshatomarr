@@ -96,6 +96,3 @@ I'm a **Web Developer & Designer**, a **Lead at Google DSC Kalindi** & a **Beta 
 <a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-stats.vercel.app/api?username=Dikshatomarr&show_icons=true&bg_color=00000000)" alt="Dikshatomarr's GitHub stats" /></a>
 <a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshatomarr&show_icons=true&bg_color=00000000)" /></a>
 </div>
-
- 
-  ![Snake animation](https://github.com/dikshatomarr/dikshatomarr/blob/output/github-contribution-grid-snake.svg) 
