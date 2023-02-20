@@ -58,10 +58,10 @@ src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-
 
 ### About
 
-I'm a **Web Developer & Designer**, a **Lead at Google DSC Kalindi** & a **Beta Microsoft Learn Student Ambassador**.
+I'm a **Front-end Web Developer & Designer** & a **Lead at Google DSC Kalindi**.
 
 * 🌍  I'm based in **New Delhi / Haridwar**
-* 🖥️  See my portfolio at **[netlify](http://dikshatomar.netlify.app/)**
+* 🖥️  My **[Portfolio](http://dikshatomar.netlify.app/)** & **[Resume](https://drive.google.com/file/d/1ZkdMJx4fcC8ZZT0A5B46iuOLbsUGcTTG/view?usp=sharing)**
 * ✉️  You can contact me at **[dikshatomar1511@gmail.com](mailto:dikshatomar1511@gmail.com)**
 * 🧠  I'm learning **Dart & Flutter**
 * ✍  My Blogs : **https://dikshatomar.hashnode.dev/**
