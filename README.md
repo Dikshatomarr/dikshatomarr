@@ -62,7 +62,7 @@ I'm a **Front-end Web Developer & Designer** & a **Lead at Google DSC Kalindi**.
 
 * 🌍  I'm based in **New Delhi / Haridwar**
 * 🖥️  My **[Portfolio](http://dikshatomar.netlify.app/)** & **[Resume]([https://drive.google.com/file/d/1ZkdMJx4fcC8ZZT0A5B46iuOLbsUGcTTG/view?usp=sharing](https://drive.google.com/file/d/1zMxxVxUxPKMXQ-FUZpImyL4P0EMb0kwD/view?usp=sharing))**
-* ✉️  You can contact me at **[dikshatomar1511@gmail.com](mailto:dikshatomar1511@gmail.com)**
+* ✉️  You can contact me at **[dikshatomar.work@gmail.com](mailto:dikshatomar.work@gmail.com)**
 * ✍  My Blogs : **https://dikshatomar.hashnode.dev/**
 
 ### Skills
