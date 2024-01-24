@@ -58,8 +58,7 @@ src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-
 
 ### About
 
-I primarily focus on managing databases as an **Application Development Associate at Accenture**, working within the Cloud Operations team.
-
+Hello, I work within the Cloud Operations team as an **Application Development Associate at Accenture**.
 * 🌍  I'm based in **Gurugram**
 * 🖥️  My **[Portfolio](http://dikshatomar.netlify.app/)**
 * ✉️  You can contact me at **[dikshatomar.work@gmail.com](mailto:dikshatomar.work@gmail.com)**
