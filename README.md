@@ -58,10 +58,10 @@ src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-
 
 ### About
 
-I'm a **Front-end Web Developer & Designer** & a **Lead at Google DSC Kalindi**.
+I primarily focus on managing databases as an **Application Development Associate at Accenture**, working within the Cloud Operations team.
 
-* 🌍  I'm based in **New Delhi / Haridwar**
-* 🖥️  My **[Portfolio](http://dikshatomar.netlify.app/)** & **[Resume]([https://drive.google.com/file/d/1ZkdMJx4fcC8ZZT0A5B46iuOLbsUGcTTG/view?usp=sharing](https://drive.google.com/file/d/1zMxxVxUxPKMXQ-FUZpImyL4P0EMb0kwD/view?usp=sharing))**
+* 🌍  I'm based in **Gurugram**
+* 🖥️  My **[Portfolio](http://dikshatomar.netlify.app/)**
 * ✉️  You can contact me at **[dikshatomar.work@gmail.com](mailto:dikshatomar.work@gmail.com)**
 * ✍  My Blogs : **https://dikshatomar.hashnode.dev/**
 
