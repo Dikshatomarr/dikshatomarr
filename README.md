@@ -20,9 +20,6 @@ src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-
 <a href="https://linkedin.com/in/dikshatomar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/dikshatomarr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://medium.com/@dikshatomarr" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
@@ -58,7 +55,7 @@ src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-
 
 ### About
 
-Hello, I work within the Cloud Operations team as an **Application Development Associate at Accenture**.
+Hello, I work within the Cloud Operations team as an **Infrastructure Engineer at Accenture**.
 * 🌍  I'm based in **Gurugram**
 * ✉️  You can contact me at **[dikshatomar.work@gmail.com](mailto:dikshatomar.work@gmail.com)**
 * ✍  My Blogs : **https://dikshatomar.hashnode.dev/**
