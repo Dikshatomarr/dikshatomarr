@@ -134,7 +134,5 @@ Hello, I work within the Cloud Operations team as an **Infrastructure Engineer a
 
 <b>My GitHub Stats</b>
 
-<div>
-<a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-stats.vercel.app/api?username=Dikshatomarr&show_icons=true&bg_color=00000000)" alt="Dikshatomarr's GitHub stats" /></a>
-<a href="http://www.github.com/Dikshatomarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshatomarr&show_icons=true&bg_color=00000000)" /></a>
-</div>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshatomarr&show_icons=true&locale=en&layout=compact" alt="dikshatomarr" /></p>
