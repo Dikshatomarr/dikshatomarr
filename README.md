@@ -59,7 +59,6 @@ src="https://img.shields.io/github/followers/Dikshatomarr?logo=github&style=for-
 
 ### About
 
-Hello, I work within the Cloud Operations team as an **Infrastructure Engineer at Accenture**.
 * 🌍  I'm based in **Gurugram**
 * ✉️  You can contact me at **[dikshatomar.work@gmail.com](mailto:dikshatomar.work@gmail.com)**
 * ✍  My Blogs : **[https://dikshatomar.hashnode.dev/](https://hashnode.com/@dikshatomar)**
